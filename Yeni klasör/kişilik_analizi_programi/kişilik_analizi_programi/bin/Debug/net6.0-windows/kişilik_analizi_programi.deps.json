@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kişilik_analizi_programi/1.0.0": {
+        "runtime": {
+          "kişilik_analizi_programi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kişilik_analizi_programi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

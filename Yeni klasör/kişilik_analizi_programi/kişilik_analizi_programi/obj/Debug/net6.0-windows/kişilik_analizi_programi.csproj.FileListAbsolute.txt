@@ -1,0 +1,38 @@
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.exe
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.deps.json
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.runtimeconfig.json
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\ref\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.pdb
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.Form1.resources
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.Properties.Resources.resources
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.AssemblyInfo.cs
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\ref\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.pdb
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.genruntimeconfig.cache
+C:\Users\samsung\Desktop\visual studio kod\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.Form2.resources
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.exe
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.deps.json
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.runtimeconfig.json
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\ref\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\bin\Debug\net6.0-windows\kişilik_analizi_programi.pdb
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.Form1.resources
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.Form2.resources
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.Properties.Resources.resources
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.csproj.GenerateResource.cache
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.AssemblyInfo.cs
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\ref\kişilik_analizi_programi.dll
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.pdb
+C:\Users\samsung\Desktop\Yeni klasör\kişilik_analizi_programi\kişilik_analizi_programi\obj\Debug\net6.0-windows\kişilik_analizi_programi.genruntimeconfig.cache
